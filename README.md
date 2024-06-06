@@ -17,3 +17,10 @@ In this course, you'll learn the most common HTML tags by building your own cat 
 CSS tells the browser how to display your webpage. You can use CSS to set the color, font, size, and other aspects of HTML elements.
 
 In this course, you'll learn CSS by designing a menu page for a cafe webpage.
+
+## Learn HTML Forms by Building a Registration Form
+
+You can use HTML forms to collect information from people who visit your webpage.
+
+In this course, you'll learn HTML forms by building a signup page. You'll learn how to control what types of data people can type into your form, and some new CSS tools for styling your page.
+
