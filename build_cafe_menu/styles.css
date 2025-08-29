@@ -31,6 +31,28 @@ h1, h2 {
 
 .price {text-align: right; width: 25%;
 }
+.price-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 1px solid brown;
+    margin-bottom: 15px;
+}
+.flavor-header {
+    text-align: left;
+    width: 75%;
+    font-weight: bold;
+    font-size: 18px;
+    color: brown;
+}
+.price-header-text {
+    text-align: right;
+    width: 25%;
+    font-weight: bold;
+    font-size: 18px;
+    color: brown;
+}
 .established {
     font-style: italic;
 }
