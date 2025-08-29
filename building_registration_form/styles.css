@@ -49,19 +49,32 @@ input, textarea {
     color: #ffffff;
 }
 input[type="submit"] {
-    display:block;
-    width: 60vw;
-    margin: 1em auto 1em auto;
+    display: block;
+    width: 100%;
+    margin: 1em auto;
     height: 2em;
     font-size: 1.1rem;
     background-color: #3b3b4f;
     border-color: white;
-    min-width: 300px;
+    cursor: pointer;
 }
 input[type="file"] {
     padding: 1px 2px;
 }
 a {
     color: #dfdfe2;
+}
+
+/* Fix for terms and conditions checkbox alignment */
+label[for="terms-and-conditions"] {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+    margin: 1em 0;
+}
+
+label[for="terms-and-conditions"] input[type="checkbox"] {
+    width: unset;
+    margin: 0;
 }
   
