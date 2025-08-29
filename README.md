@@ -6,21 +6,57 @@ First, you'll build a cat photo app to learn the basics of HTML and CSS. Later, 
 
 Finally, you'll learn how to make webpages that respond to different screen sizes by building a photo gallery with Flexbox, and a magazine article layout with CSS Grid.
 
-## Learn HTML by Building a Cat Photo App
+## Projects
 
-HTML tags give a webpage its structure. You can use HTML tags to add photos, buttons, and other elements to your webpage.
+### 1. Cat Photo App
+**Directory:** `cat_photo_app/`
+- **Description:** Learn HTML tags by building a cat photo app
+- **Technologies:** HTML5
+- **Files:** `index.html`, `README.md`
+- **Learning Focus:** Basic HTML structure and tags
 
-In this course, you'll learn the most common HTML tags by building your own cat photo app.
+### 2. Cafe Menu
+**Directory:** `build_cafe_menu/`
+- **Description:** Learn CSS by designing a menu page for a cafe webpage
+- **Technologies:** HTML5, CSS3
+- **Files:** `index.html`, `styles.css`
+- **Learning Focus:** CSS styling, colors, fonts, and layout
 
-## Learn Basic CSS by Building a Cafe Menu
+### 3. Registration Form
+**Directory:** `building_registration_form/`
+- **Description:** Learn HTML forms by building a signup page
+- **Technologies:** HTML5, CSS3
+- **Files:** `index.html`, `styles.css`, `README.md`
+- **Learning Focus:** HTML forms, data validation, CSS styling
 
-CSS tells the browser how to display your webpage. You can use CSS to set the color, font, size, and other aspects of HTML elements.
+### 4. Colored Markers
+**Directory:** `building_colored_markers/`
+- **Description:** Learn CSS by building colored markers
+- **Technologies:** HTML5, CSS3
+- **Files:** `index.html`, `styles.css`, `README.md`
+- **Learning Focus:** CSS colors, gradients, and visual effects
 
-In this course, you'll learn CSS by designing a menu page for a cafe webpage.
+### 5. Photo Gallery
+**Directory:** `photo_gallery/`
+- **Description:** Learn responsive design with Flexbox
+- **Technologies:** HTML5, CSS3, Flexbox
+- **Files:** `index.html`, `styles.css`, `README.md`
+- **Learning Focus:** Responsive design, Flexbox layout
 
-## Learn HTML Forms by Building a Registration Form
+## Learning Path
 
-You can use HTML forms to collect information from people who visit your webpage.
+1. **HTML Basics** - Start with the Cat Photo App to learn fundamental HTML structure
+2. **CSS Fundamentals** - Move to the Cafe Menu to learn styling and layout
+3. **Forms & Validation** - Build the Registration Form to learn user input
+4. **Advanced CSS** - Create Colored Markers to explore CSS effects
+5. **Responsive Design** - Finish with the Photo Gallery using Flexbox
 
-In this course, you'll learn HTML forms by building a signup page. You'll learn how to control what types of data people can type into your form, and some new CSS tools for styling your page.
+## Technologies Covered
+- HTML5 (semantic markup, forms, structure)
+- CSS3 (styling, layout, responsive design)
+- Flexbox (modern CSS layout)
+- Responsive Web Design principles
+
+## Getting Started
+Each project directory contains its own `README.md` with specific instructions. Start with the Cat Photo App and progress through each project to build a solid foundation in responsive web design.
 
